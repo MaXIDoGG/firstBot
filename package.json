@@ -10,7 +10,8 @@
   "author": "maxidogg",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.58.0"
+    "node-telegram-bot-api": "^0.58.0",
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
