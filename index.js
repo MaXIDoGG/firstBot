@@ -8,9 +8,6 @@ const bot = new TelegramApi(token, {polling: true})
 const chats = {}
 
 
-
-
-
 const start = () => {
 	bot.setMyCommands([
 		{command: '/start', description: 'hello'},
